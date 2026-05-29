@@ -1,10 +1,10 @@
-tool,vendor
-AnyDesk,AnyDesk
-ScreenConnect,ConnectWise
-RustDesk,RustDesk
-SimpleHelp,SimpleHelp
-TeamViewer,TeamViewer
-MeshCentral,MeshCentral
-Splashtop,Splashtop
-Atera,Atera
-NetSupport Manager,NetSupport
+tool,vendor,keywords
+AnyDesk,AnyDesk,"AnyDesk,anydesk.exe"
+ScreenConnect,ConnectWise,"ScreenConnect,ConnectWise Control,screenconnect.client"
+SimpleHelp,SimpleHelp,"SimpleHelp,simple-help"
+RustDesk,RustDesk,"RustDesk,rustdesk.exe"
+TeamViewer,TeamViewer,"TeamViewer,teamviewer.exe"
+MeshCentral,MeshCentral,"MeshCentral,meshagent"
+Splashtop,Splashtop,"Splashtop,splashtop.exe"
+Atera,Atera,"Atera,AteraAgent"
+NetSupport Manager,NetSupport,"NetSupport Manager,client32.exe"
