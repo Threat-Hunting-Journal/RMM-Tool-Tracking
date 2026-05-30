@@ -1,0 +1,39 @@
+name: Daily RMM Dashboard Update
+
+on:
+  schedule:
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-dashboard:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install feedparser pandas
+
+      - name: Run RMM article search
+        run: python scripts/rmm_article_search.py
+
+      - name: Run RMM summary
+        run: python scripts/rmm_summary.py
+
+      - name: Commit updated files
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add findings.csv tool_summary.csv
+          git diff --staged --quiet || git commit -m "Daily RMM dashboard update"
+          git push
