@@ -2,5 +2,35 @@ source,rss_url
 BleepingComputer,https://www.bleepingcomputer.com/feed/
 The Hacker News,https://feeds.feedburner.com/TheHackersNews
 Huntress,https://www.huntress.com/blog/rss.xml
-Sophos,https://news.sophos.com/en-us/feed/
-Microsoft Security,https://www.microsoft.com/en-us/security/blog/feed/
+Sophos X-Ops,https://news.sophos.com/en-us/feed/
+Microsoft Security Blog,https://www.microsoft.com/en-us/security/blog/feed/
+Cisco Talos,https://blog.talosintelligence.com/rss/
+Palo Alto Unit 42,https://unit42.paloaltonetworks.com/feed/
+CrowdStrike,https://www.crowdstrike.com/blog/feed/
+Proofpoint Threat Insight,https://www.proofpoint.com/us/blog/threat-insight/rss.xml
+Arctic Wolf Labs,https://arcticwolf.com/resources/blog/feed/
+ReliaQuest,https://reliaquest.com/blog/feed/
+Securelist (Kaspersky),https://securelist.com/feed/
+Trend Micro Research,https://www.trendmicro.com/en_us/research.html/rss.xml
+ESET Research,https://www.welivesecurity.com/feed/
+SentinelOne Labs,https://www.sentinelone.com/labs/feed/
+Securonix Threat Labs,https://www.securonix.com/feed/
+Rapid7 Labs,https://www.rapid7.com/blog/rss/
+Mandiant,https://www.mandiant.com/resources/blog/rss.xml
+Elastic Security Labs,https://www.elastic.co/security-labs/rss.xml
+BlackBerry Research,https://blogs.blackberry.com/en/feed
+Fortinet FortiGuard,https://www.fortiguard.com/rss
+Check Point Research,https://research.checkpoint.com/feed/
+AhnLab ASEC,https://asec.ahnlab.com/en/feed/
+Huntress,https://www.huntress.com/blog/rss.xml
+ReliaQuest,https://reliaquest.com/blog/feed/
+Arctic Wolf,https://arcticwolf.com/resources/blog/feed/
+Sophos X-Ops,https://news.sophos.com/en-us/feed/
+Securonix,https://www.securonix.com/feed/
+Proofpoint,https://www.proofpoint.com/us/blog/threat-insight/rss.xml
+Dark Reading,https://www.darkreading.com/rss.xml
+SecurityWeek,https://feeds.feedburner.com/securityweek
+KrebsOnSecurity,https://krebsonsecurity.com/feed/
+SC Media,https://www.scworld.com/rss
+Help Net Security,https://www.helpnetsecurity.com/feed/
+Obstracts,https://obstracts.com/feed

@@ -1,10 +1,220 @@
-tool,vendor,keywords
-AnyDesk,AnyDesk,"AnyDesk,anydesk.exe"
-ScreenConnect,ConnectWise,"ScreenConnect,ConnectWise Control,screenconnect.client"
-SimpleHelp,SimpleHelp,"SimpleHelp,simple-help"
-RustDesk,RustDesk,"RustDesk,rustdesk.exe"
-TeamViewer,TeamViewer,"TeamViewer,teamviewer.exe"
-MeshCentral,MeshCentral,"MeshCentral,meshagent"
-Splashtop,Splashtop,"Splashtop,splashtop.exe"
-Atera,Atera,"Atera,AteraAgent"
-NetSupport Manager,NetSupport,"NetSupport Manager,client32.exe"
+tool,vendor
+247ithelp.com,ConnectWise
+Absolute (Computrace),Absolute
+Acronis Cyber Protect,Remotix
+Action1,Action1
+Addigy,Addigy
+Adobe Connect,Adobe Connect
+AeroAdmin,AeroAdmin
+AliWangWang-remote-control,AliWangWang-remote-control
+Alpemix,Alpemix
+Ammyy Admin,Ammyy Admin
+Any Support,Any Support
+AnyDesk,AnyDesk
+Anyplace Control,Anyplace Control
+AnyViewer,AnyViewer
+Aspia,Aspia
+Atera,Atera
+Auvik,Auvik
+AweRay,AweRay
+baramundi Management Suite,baramundi Management Suite
+Barracuda,Barracuda
+Basecamp,Basecamp
+BeamYourScreen,BeamYourScreen
+BeAnyWhere,BeAnyWhere
+BeInSync,BeInSync
+BeyondTrust (Bomgar),Bomgar
+Bluetrait,Bluetrait
+CentraStage (Now Datto),Datto
+Centurion,Centurion
+Chrome Remote Desktop,Google
+CloudFlare Tunnel,Cloudflare
+Comodo RMM,Comodo
+Connectwise Automate,LabTech
+ConnectWise Control,ConnectWise
+CrossLoop,CrossLoop
+CrossTec Remote Control,CrossTec Remote Control
+DameWare,DameWare
+Dataplicity,Dataplicity
+DeskDay,DeskDay
+DesktopNow,DesktopNow
+Dev Tunnels (aka Visual Studio Dev Tunnel),Microsoft
+Distant Desktop,Distant Desktop
+Domotz,Domotz
+Duet Display,Duet Display
+DW Service,DW Service
+eHorus,eHorus
+Electric AI (Kaseya),Kaseya
+EMCO Remote Console,EMCO Remote Console
+Encapto,Encapto
+Ericom AccessNow,Ericom AccessNow
+Ericom Connect,Ericom Connect
+ESET Remote Administrator,ESET Remote Administrator
+ezHelp,ezHelp
+Faronics Core,Faronics Core
+Faronics Deep Freeze,Faronics Deep Freeze
+Faronics Deploy,Faronics Deploy
+Faronics Insight,Faronics Insight
+FastViewer,FastViewer
+FixMe.it,FixMe.it
+FleetDeck.io,FleetDeck.io
+Fortra,Fortra
+Freshservice,Freshservice
+GatherPlace-desktop sharing,GatherPlace-desktop sharing
+GetScreen,GetScreen
+GLPI Agent,GLPI Agent
+Gorelo RMM,Gorelo RMM
+GoToAssist,GoTo
+GotoHTTP,GotoHTTP
+GoToMyPC,GoTo
+Goverlan,Goverlan
+Guacamole,Guacamole
+HeartbeatRM,HeartbeatRM
+HelpBeam,HelpBeam
+HelpU,HelpU
+HopToDesk,HopToDesk
+I'm InTouch,I'm InTouch
+iDrive,iDrive
+ImmyBot,ImmyBot
+Impero Connect,Impero
+Instant Housecall,Instant Housecall
+IntelliAdmin Remote Control,IntelliAdmin Remote Control
+InvGate,InvGate
+Iperius Remote,Iperius Remote
+ISL Light,ISL Light
+ISL Online,ISL Online
+Itarian,Comodo
+ITSupport247,ConnectWise
+Ivanti Remote Control,Ivanti
+Jump Cloud,Jump Cloud
+Jump Desktop,Jump Desktop
+Kabuto,Kabuto
+Kaseya,VSA
+KHelpDesk,KHelpDesk
+KickIdler,KickIdler
+Komari,Komari
+LabTech RMM,ConnectWise
+LANDesk,Ivanti
+Laplink Everywhere,Laplink Everywhere
+Laplink Gold,Laplink Gold
+LiteManager,LiteManager
+LocalXpose,LocalXpose
+LogMeIn,GoTo
+LogMeIn rescue,GoTo
+Lunixar,Lunixar
+Manage Engine (Desktop Central),ManageEngine
+ManageEngine RMM Central,ManageEngine
+ManageEngine ServiceDesk Plus,ManageEngine
+MeshCentral,MeshCentral
+Microsoft Quick Assist,Microsoft
+Mikogo,Mikogo
+Miradore,Miradore
+Monitic,Monitic
+mRemoteNG,mRemoteNG
+MSP360,MSP360
+MyGreenPC,MyGreenPC
+MyIVO,MyIVO
+N-Able Advanced Monitoring Agent,N-able
+N-ABLE Remote Access Software,N-ABLE Remote Access Software
+Naverisk,Naverisk
+NetBird,NetBird
+Netop Remote Control,Impero Connect
+Netop Remote Control,Impero Connect
+Netreo,Netreo
+NetSupport Manager,NetSupport
+Neturo,Neturo
+Netviewer,Netviewer
+Netviewer (GoToMeet),Netviewer
+Nezha,Nezha
+ngrok,ngrok
+NinjaRMM,NinjaOne
+NoMachine,NoMachine
+NTR Remote,NTR Remote
+NVDA (Non-Visual Desktop Access),NVDA
+OCS inventory,OCS inventory
+OptiTune,OptiTune
+Pandora RC,eHorus
+Panorama9,Panorama9
+Parallels Access,Parallels Access
+Parsec,Parsec
+Pcnow,Pcnow
+Pcvisit,Pcvisit
+PDQ Connect,PDQ Connect
+Pilixo,Pilixo
+PiTunnel,PiTunnel
+Pocket Controller,Pocket Controller
+Pocket Controller (Soti Xsight),Pocket Controller
+Pulseway,Pulseway
+QQ IM-remote assistance,QQ IM-remote assistance
+Quest KACE Agent (formerly Dell KACE),Quest KACE Agent
+Quick Assist,Microsoft
+RAdmin,RAdmin
+Rapid7,Rapid7
+rdp2tcp,rdp2tcp
+RDPView,RDPView
+rdpwrap,rdpwrap
+Remmon,Remmon
+Remobo,Remobo
+Remote Desktop Plus,Remote Desktop Plus
+Remote Manipulator System,Remote Utilities
+Remote Utilities,Remote Utilities
+Remote.it,Remote.it
+RemoteCall,RemoteCall
+RemotePass,RemotePass
+RemotePC,RemotePC
+RemoteUtilities,Remote Utilities
+RemoteView,RemoteView
+RemSupp,RemSupp
+RES Automation Manager,RES Automation Manager
+Rodex RMM,Rodex RMM
+Royal Server,Royal Server
+Royal TS,Royal TS
+RPort,RPort
+RuDesktop,RuDesktop
+RunSmart,RunSmart
+RustDesk,RustDesk
+ScreenConnect,ConnectWise
+ScreenMeet,ScreenMeet
+Seetrol,Seetrol
+Senso.cloud,Senso.cloud
+ServerEye,ServerEye
+ShellHub,ShellHub
+ShowMyPC,ShowMyPC
+SimpleHelp,SimpleHelp
+Site24x7,Site24x7
+SkyFex,SkyFex
+Sophos-Remote Management System,Sophos-Remote Management System
+Sorillus,Sorillus
+Splashtop,Splashtop
+Splashtop (Beta),Splashtop
+Splashtop Remote,Splashtop
+SpyAnywhere,SpyAnywhere
+SunLogin,SunLogin
+SuperOps,SuperOps
+Supremo,Supremo
+Syncro,Syncro
+Syspectr,Syspectr
+Tactical RMM,Tactical RMM
+Tailscale,Tailscale
+Tanium,Tanium
+Tanium Deploy,Tanium Deploy
+TeamViewer,TeamViewer
+TeleDesktop,TeleDesktop
+Teramind,Teramind
+TiFLUX,TiFLUX
+TightVNC,TightVNC
+tmate,tmate
+ToDesk,ToDesk
+TrustConnect,TrustConnect
+TurboMeeting,TurboMeeting
+UltraViewer,UltraViewer
+UltraVNC,UltraVNC
+Visual Studio Dev Tunnel,Microsoft
+VIZOR,VIZOR
+VNC,VNC
+WebRDP,WebRDP
+Weezo,Weezo
+Xeox,Xeox
+Zabbix Agent,Zabbix Agent
+ZeroTier,ZeroTier
+Zoho Assist,Zoho
