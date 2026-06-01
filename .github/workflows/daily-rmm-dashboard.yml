@@ -30,6 +30,11 @@ jobs:
       - name: Run RMM summary
         run: python scripts/rmm_summary.py
 
+      - name: Copy dashboard data
+        run: |
+          cp tool_summary.csv docs/tool_summary.csv
+          cp findings.csv docs/findings.csv
+
       - name: Commit updated files
         run: |
           git config --global user.name "github-actions"
