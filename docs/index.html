@@ -2,7 +2,30 @@
 <html>
 <head>
     <title>RMM Threat Dashboard</title>
+<script>
+fetch('tool_summary.csv')
+.then(response => response.text())
+.then(data => {
+    const rows = data.trim().split('\n');
 
+    let html = '<table>';
+    html += '<tr><th>Tool</th><th>Mentions</th></tr>';
+
+    rows.slice(1).forEach(row => {
+        const cols = row.split(',');
+
+        html += `<tr>
+                    <td>${cols[0]}</td>
+                    <td>${cols[1]}</td>
+                 </tr>`;
+    });
+
+    html += '</table>';
+
+    document.getElementById('table').innerHTML = html;
+    document.getElementById('findingCount').innerText = rows.length - 1;
+});
+</script>
     <style>
     body {
         background-color: #0d1117;
@@ -102,7 +125,9 @@ Tracking malicious use of Remote Monitoring & Management tools
         <div class="card-title">Findings</div>
         <div class="card-value" id="findingCount">--</div>
     </div>
-
+    
+    <h2>Top RMM Tools</h2>
+    <div id="table"></div>
 </div>
     
 <script>
