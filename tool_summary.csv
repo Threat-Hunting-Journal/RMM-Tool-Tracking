@@ -1,20 +1,20 @@
 tool,count
-Rapid7,240
-Atera,151
-RPort,42
-VNC,24
-AnyDesk,24
-DameWare,24
-Komari,24
-Splashtop,24
-TiFLUX,24
-ScreenConnect,24
+Rapid7,241
+Atera,159
+RPort,44
+Komari,26
+TiFLUX,26
+Splashtop,25
+AnyDesk,25
+ScreenConnect,25
+VNC,25
+DameWare,25
+Teramind,13
+Quick Assist,13
+RustDesk,13
+RemoteCall,13
 Barracuda,12
 Syncro,12
-RemoteCall,12
-Quick Assist,12
 RAdmin,12
-Teramind,12
-RustDesk,12
 TeamViewer,12
 Kaseya,3
