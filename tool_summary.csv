@@ -1,18 +1,20 @@
 tool,count
-Atera,73
-RPort,18
-Komari,18
-TiFLUX,18
-AnyDesk,15
-Quick Assist,15
-RemoteCall,9
-RustDesk,9
-DameWare,9
-VNC,9
-Teramind,9
-Splashtop,9
-ScreenConnect,9
-SuperOps,6
-Zoho Assist,6
+Atera,81
+RPort,20
+Komari,20
+TiFLUX,20
+AnyDesk,17
+Quick Assist,17
+DameWare,10
+ScreenConnect,10
+Splashtop,10
+RustDesk,10
+RemoteCall,10
+VNC,10
+Teramind,10
+SuperOps,7
+Zoho Assist,7
 Rapid7,4
 Itarian,4
+Kaseya,1
+MeshCentral,1
