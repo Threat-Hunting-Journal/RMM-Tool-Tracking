@@ -382,3 +382,7 @@ date_found,source,tool,article_title,article_url,matched_terms,status,notes
 2026-06-16,Huntress,Komari,Komari Red: The Monitoring Tool with a Built-in Reverse Shell,https://www.huntress.com/blog/komari-c2-agent-abuse,komari,New,
 2026-06-16,Dark Reading,Atera,Anthropic to Open Mythos AI to EU's ENISA,https://www.darkreading.com/cyber-risk/anthropic-mythos-ai-eu-enisa,atera; rat,New,
 2026-06-16,Help Net Security,SimpleHelp,SimpleHelp RMM flaw could give attackers full access to managed endpoints (CVE-2026-48558),https://www.helpnetsecurity.com/2026/06/16/simplehelp-rmm-cve-2026-48558/,simplehelp; rmm; remote monitoring and management,New,
+2026-06-17,Huntress,TiFLUX,Threat Actors Weaponize Tiflux RMMs in Malspam Attacks,https://www.huntress.com/blog/tiflux-rmm-install,tiflux; rmm; remote monitoring and management,New,
+2026-06-17,Huntress,Komari,Komari Red: The Monitoring Tool with a Built-in Reverse Shell,https://www.huntress.com/blog/komari-c2-agent-abuse,komari,New,
+2026-06-17,Huntress,TiFLUX,Threat Actors Weaponize Tiflux RMMs in Malspam Attacks,https://www.huntress.com/blog/tiflux-rmm-install,tiflux; rmm; remote monitoring and management,New,
+2026-06-17,Huntress,Komari,Komari Red: The Monitoring Tool with a Built-in Reverse Shell,https://www.huntress.com/blog/komari-c2-agent-abuse,komari,New,
