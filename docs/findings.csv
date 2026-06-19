@@ -392,3 +392,8 @@ date_found,source,tool,article_title,article_url,matched_terms,status,notes
 2026-06-18,Huntress,TiFLUX,Threat Actors Weaponize Tiflux RMMs in Malspam Attacks,https://www.huntress.com/blog/tiflux-rmm-install,tiflux; rmm; remote monitoring and management,New,
 2026-06-18,Huntress,Komari,Komari Red: The Monitoring Tool with a Built-in Reverse Shell,https://www.huntress.com/blog/komari-c2-agent-abuse,komari,New,
 2026-06-18,Help Net Security,Barracuda,Barracuda introduces AI-powered email security with automated threat response,https://www.helpnetsecurity.com/2026/06/18/barracuda-integrated-email-protection/,barracuda; rat,New,
+2026-06-19,The Hacker News,Tailscale,Junior Hacker Used Tailscale and OpenSSH to Keep Access After His C2 Went Offline,https://thehackernews.com/2026/06/junior-hacker-used-tailscale-and.html,tailscale,New,
+2026-06-19,Huntress,TiFLUX,Threat Actors Weaponize Tiflux RMMs in Malspam Attacks,https://www.huntress.com/blog/tiflux-rmm-install,tiflux; rmm; remote monitoring and management,New,
+2026-06-19,Huntress,Komari,Komari Red: The Monitoring Tool with a Built-in Reverse Shell,https://www.huntress.com/blog/komari-c2-agent-abuse,komari,New,
+2026-06-19,Huntress,TiFLUX,Threat Actors Weaponize Tiflux RMMs in Malspam Attacks,https://www.huntress.com/blog/tiflux-rmm-install,tiflux; rmm; remote monitoring and management,New,
+2026-06-19,Huntress,Komari,Komari Red: The Monitoring Tool with a Built-in Reverse Shell,https://www.huntress.com/blog/komari-c2-agent-abuse,komari,New,
