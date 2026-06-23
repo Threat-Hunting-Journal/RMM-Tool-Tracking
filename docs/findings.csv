@@ -412,3 +412,8 @@ date_found,source,tool,article_title,article_url,matched_terms,status,notes
 2026-06-22,Huntress,Komari,Komari Red: The Monitoring Tool with a Built-in Reverse Shell,https://www.huntress.com/blog/komari-c2-agent-abuse,komari,New,
 2026-06-22,Huntress,TiFLUX,Threat Actors Weaponize Tiflux RMMs in Malspam Attacks,https://www.huntress.com/blog/tiflux-rmm-install,tiflux; rmm; remote monitoring and management,New,
 2026-06-22,Huntress,Komari,Komari Red: The Monitoring Tool with a Built-in Reverse Shell,https://www.huntress.com/blog/komari-c2-agent-abuse,komari,New,
+2026-06-23,The Hacker News,Tailscale,Junior Hacker Used Tailscale and OpenSSH to Keep Access After His C2 Went Offline,https://thehackernews.com/2026/06/junior-hacker-used-tailscale-and.html,tailscale,New,
+2026-06-23,Huntress,TiFLUX,Threat Actors Weaponize Tiflux RMMs in Malspam Attacks,https://www.huntress.com/blog/tiflux-rmm-install,tiflux; rmm; remote monitoring and management,New,
+2026-06-23,Huntress,Komari,Komari Red: The Monitoring Tool with a Built-in Reverse Shell,https://www.huntress.com/blog/komari-c2-agent-abuse,komari,New,
+2026-06-23,Huntress,TiFLUX,Threat Actors Weaponize Tiflux RMMs in Malspam Attacks,https://www.huntress.com/blog/tiflux-rmm-install,tiflux; rmm; remote monitoring and management,New,
+2026-06-23,Huntress,Komari,Komari Red: The Monitoring Tool with a Built-in Reverse Shell,https://www.huntress.com/blog/komari-c2-agent-abuse,komari,New,
