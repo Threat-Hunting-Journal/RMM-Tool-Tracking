@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="87UCqciprT1NfcrW9Qr9">
+    <mxGraphModel dx="1178" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hXLVg4rmleACGpXIkBS8-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="Enterprise Crisis &amp;amp; Business Continuity Program" vertex="1">
+          <mxGeometry height="930" width="740" x="60" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hXLVg4rmleACGpXIkBS8-3" parent="hXLVg4rmleACGpXIkBS8-1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=23;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="Global" vertex="1">
+          <mxGeometry height="840" width="700" x="20" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hXLVg4rmleACGpXIkBS8-2" parent="hXLVg4rmleACGpXIkBS8-3" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" value="Regional" vertex="1">
+          <mxGeometry height="560" width="630" x="40" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="hXLVg4rmleACGpXIkBS8-4" parent="hXLVg4rmleACGpXIkBS8-2" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" value="Site" vertex="1">
+          <mxGeometry height="280" width="560" x="40" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="hXLVg4rmleACGpXIkBS8-11" parent="hXLVg4rmleACGpXIkBS8-4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Site Tabletop Exeercise to test CM/BCP plan" vertex="1">
+          <mxGeometry height="30" width="190" x="280" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hXLVg4rmleACGpXIkBS8-20" parent="hXLVg4rmleACGpXIkBS8-4" style="swimlane;whiteSpace=wrap;html=1;" value="Site CM/BCP Plan" vertex="1">
+          <mxGeometry height="160" width="200" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hXLVg4rmleACGpXIkBS8-9" parent="hXLVg4rmleACGpXIkBS8-20" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;ul&gt;&lt;li&gt;Local CMT&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Business Impact Analysis (BIA)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Crisis Response&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Business Continuity&amp;nbsp;&lt;/li&gt;&lt;li&gt;Crisis Communication&amp;nbsp;&lt;/li&gt;&lt;li&gt;Business Recovery&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="200" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hXLVg4rmleACGpXIkBS8-22" parent="hXLVg4rmleACGpXIkBS8-2" style="swimlane;whiteSpace=wrap;html=1;" value="Regional CM/BCP Plan" vertex="1">
+          <mxGeometry height="160" width="240" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hXLVg4rmleACGpXIkBS8-12" parent="hXLVg4rmleACGpXIkBS8-22" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;ul&gt;&lt;li&gt;Regional CMT&lt;/li&gt;&lt;li&gt;Regional Business Continuity Strategy&lt;/li&gt;&lt;li&gt;Regional Escalation Procedures&lt;/li&gt;&lt;li&gt;Regional Communication&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="130" width="240" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hXLVg4rmleACGpXIkBS8-23" parent="hXLVg4rmleACGpXIkBS8-3" style="swimlane;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Global CM/BCP Plan&lt;/span&gt;" vertex="1">
+          <mxGeometry height="160" width="280" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hXLVg4rmleACGpXIkBS8-24" parent="hXLVg4rmleACGpXIkBS8-23" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;ul&gt;&lt;li&gt;Global CMT&lt;/li&gt;&lt;li&gt;Global Crisis Communication&lt;/li&gt;&lt;li&gt;Enterprise Business Critical Processes&lt;/li&gt;&lt;li&gt;Global Recovery Priorities&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Executive Decision Framework&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="160" width="280" as="geometry" />
+        </mxCell>
+        <mxCell id="hXLVg4rmleACGpXIkBS8-25" parent="hXLVg4rmleACGpXIkBS8-3" style="text;whiteSpace=wrap;html=1;" value="Corporate Policies and Standards" vertex="1">
+          <mxGeometry height="40" width="210" x="430" y="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
