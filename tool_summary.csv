@@ -1,12 +1,12 @@
 tool,count
-Atera,145
-Komari,68
-TiFLUX,68
+Atera,149
+Komari,70
+TiFLUX,70
 RPort,26
 AnyDesk,24
 Quick Assist,24
-ScreenConnect,21
-SimpleHelp,19
+ScreenConnect,23
+SimpleHelp,21
 VNC,15
 RemoteCall,14
 SuperOps,13
@@ -20,6 +20,6 @@ MeshCentral,6
 Rapid7,4
 Itarian,4
 Fortra,3
+Kaseya,3
 ZeroTier,3
-Kaseya,2
 Barracuda,1
