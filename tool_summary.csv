@@ -1,8 +1,8 @@
 tool,count
-Atera,201
-TiFLUX,116
+Atera,203
+TiFLUX,118
 Komari,114
-ScreenConnect,49
+ScreenConnect,50
 RPort,33
 SimpleHelp,29
 AnyDesk,25
@@ -22,5 +22,5 @@ Kaseya,5
 Itarian,4
 Fortra,3
 ZeroTier,3
+GotoHTTP,2
 Barracuda,2
-GotoHTTP,1
