@@ -1,6 +1,6 @@
 tool,count
-Atera,212
-TiFLUX,124
+Atera,215
+TiFLUX,126
 Komari,114
 ScreenConnect,51
 RPort,33
@@ -18,8 +18,8 @@ Splashtop,12
 Rapid7,11
 Tailscale,8
 MeshCentral,6
+GotoHTTP,6
 Kaseya,5
-GotoHTTP,5
 Itarian,4
 Action1,3
 Fortra,3
