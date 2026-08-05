@@ -1,8 +1,8 @@
 tool,count
-Atera,217
-TiFLUX,128
+Atera,219
+TiFLUX,130
 Komari,114
-ScreenConnect,52
+ScreenConnect,55
 RPort,33
 SimpleHelp,29
 AnyDesk,25
@@ -16,8 +16,8 @@ Teramind,12
 DameWare,12
 Splashtop,12
 Rapid7,11
+GotoHTTP,8
 Tailscale,8
-GotoHTTP,7
 MeshCentral,6
 Kaseya,5
 Itarian,4
