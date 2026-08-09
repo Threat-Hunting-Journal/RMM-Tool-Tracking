@@ -1,8 +1,8 @@
 tool,count
-Atera,225
+Atera,227
 TiFLUX,130
 Komari,114
-ScreenConnect,63
+ScreenConnect,65
 RPort,33
 SimpleHelp,29
 AnyDesk,25
@@ -13,10 +13,10 @@ SuperOps,13
 Zoho Assist,12
 RustDesk,12
 Teramind,12
+GotoHTTP,12
 DameWare,12
 Splashtop,12
 Rapid7,11
-GotoHTTP,11
 Tailscale,8
 MeshCentral,6
 Kaseya,5
