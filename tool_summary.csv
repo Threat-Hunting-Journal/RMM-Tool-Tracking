@@ -1,11 +1,11 @@
 tool,count
-Atera,255
+Atera,257
 TiFLUX,130
 Komari,114
-ScreenConnect,86
-RPort,38
+ScreenConnect,88
+RPort,39
 SimpleHelp,29
-GotoHTTP,26
+GotoHTTP,27
 AnyDesk,25
 Quick Assist,24
 Rapid7,16
@@ -21,7 +21,7 @@ Kaseya,8
 Tailscale,8
 MeshCentral,6
 Itarian,4
+Fortra,4
 Action1,3
-Fortra,3
 ZeroTier,3
 Barracuda,2
