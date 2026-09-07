@@ -1,14 +1,14 @@
 tool,count
-Atera,305
+Atera,309
 TiFLUX,130
-ScreenConnect,115
+ScreenConnect,121
 Komari,114
-RPort,57
-GotoHTTP,40
+RPort,58
+GotoHTTP,41
 SimpleHelp,29
+Quick Assist,25
 AnyDesk,25
-Quick Assist,24
-VNC,21
+VNC,22
 Rapid7,16
 RemoteCall,14
 SuperOps,13
@@ -22,10 +22,10 @@ Kaseya,8
 MeshCentral,6
 Action1,6
 Fortra,4
+UltraVNC,4
+RAdmin,4
 Itarian,4
-RAdmin,3
 Tanium,3
-UltraVNC,3
 ZeroTier,3
 Barracuda,2
 Faronics Deploy,1
