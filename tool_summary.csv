@@ -1,32 +1,34 @@
 tool,count
-Atera,384
-ScreenConnect,284
+Atera,385
+ScreenConnect,293
 TiFLUX,130
 Komari,114
-RPort,82
-NetSupport Manager,58
-Kaseya,52
+RPort,84
+NetSupport Manager,61
+Kaseya,54
 GotoHTTP,47
-Faronics Deploy,45
-VNC,44
-AnyDesk,37
+Faronics Deploy,47
+VNC,45
+AnyDesk,39
 Quick Assist,31
 SimpleHelp,29
-UltraVNC,26
-RAdmin,26
+UltraVNC,27
+RAdmin,27
 Rapid7,16
 RemoteCall,14
 SuperOps,13
 RustDesk,12
 Zoho Assist,12
-DameWare,12
 Splashtop,12
 Teramind,12
+DameWare,12
 MeshCentral,10
-Tailscale,8
 Action1,8
+Tailscale,8
 Barracuda,4
-Itarian,4
 Fortra,4
-Tanium,3
+Itarian,4
 ZeroTier,3
+Tanium,3
+MSP360,1
+TeamViewer,1
