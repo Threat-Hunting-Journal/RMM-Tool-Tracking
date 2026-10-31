@@ -1,13 +1,13 @@
 tool,count
-ScreenConnect,616
-Atera,407
-RPort,142
+ScreenConnect,626
+Atera,409
+RPort,143
 TiFLUX,130
-NetSupport Manager,125
-Kaseya,114
+NetSupport Manager,127
+Kaseya,116
 Komari,114
-Faronics Deploy,105
-AnyDesk,97
+Faronics Deploy,107
+AnyDesk,99
 VNC,57
 SimpleHelp,50
 GotoHTTP,47
@@ -30,6 +30,6 @@ Tailscale,8
 Fortra,7
 Barracuda,5
 Itarian,4
+TeamViewer,4
 Tanium,4
-TeamViewer,3
 ZeroTier,3
