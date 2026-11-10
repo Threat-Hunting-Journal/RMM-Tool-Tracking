@@ -1,12 +1,12 @@
 tool,count
-ScreenConnect,692
-Atera,429
-RPort,151
-NetSupport Manager,143
-Kaseya,132
+ScreenConnect,700
+Atera,432
+RPort,152
+NetSupport Manager,145
+Kaseya,135
 TiFLUX,130
-Faronics Deploy,123
-AnyDesk,115
+Faronics Deploy,125
+AnyDesk,117
 Komari,114
 VNC,57
 SimpleHelp,50
@@ -25,7 +25,7 @@ RustDesk,12
 Splashtop,12
 Teramind,12
 MeshCentral,10
-Barracuda,9
+Barracuda,10
 Action1,8
 Tailscale,8
 Fortra,8
